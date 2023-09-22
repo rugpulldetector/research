@@ -5,3 +5,15 @@ http://65.108.198.248:8000/pay_screen.7z
 http://65.108.198.248:8000/besu/Besu.vbox
 http://65.108.198.248:8000/besu/Besu.vdi
 http://65.108.198.248:8000/besu/Snapshots/2023-09-21T14-17-31-843663800Z.sav
+
+## Ngnix configuration
+http://65.108.198.248:8000/nginxconfig.io.zip
+https://github.com/h5bp/server-configs-nginx/archive/refs/heads/main.zip
+https://github.com/trimstray/nginx-admins-handbook/archive/refs/heads/master.zip
+https://github.com/tldr-devops/nginx-common-configuration/archive/refs/heads/master.zip
+https://github.com/VirtuBox/advanced-nginx-cheatsheet/archive/refs/heads/master.zip
+https://github.com/risan/nginx-config/archive/refs/heads/master.zip
+https://github.com/Jamesits/nginx-config-boilerplate/archive/refs/heads/master.zip
+
+## Mobile design
+http://65.108.198.248:8000/moble_design.zip

@@ -2,10 +2,10 @@
 http://65.108.198.248:8000/pay_screen.7z
 
 ## Besu VM
-http://65.108.198.248:8000/besu/Besu.vbox
-http://65.108.198.248:8000/besu/Besu.vdi
-http://65.108.198.248:8000/besu/Snapshots/2023-09-22T10-06-23-942482200Z.sav
 http://65.108.198.248:8000/besu/besu-23.7.2.zip
+http://65.108.198.248:8000/besu/besu.part1.rar
+http://65.108.198.248:8000/besu/besu.part2.rar
+http://65.108.198.248:8000/besu/besu.part3.rar
 
 ## Ngnix configuration
 http://65.108.198.248:8000/nginxconfig.io.zip

@@ -1,5 +1,6 @@
 ## Digital real
 http://65.108.198.248:8000/braz_smartcontracts.zip
+
 http://65.108.198.248:8000/hardhat-nodejs.zip
 
 1) Preparing
@@ -56,10 +57,12 @@ Contract deployer: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
 
 ## Alpha Wallet
 http://65.108.198.248:8000/alpha-wallet-android-3.72.zip
+
 http://65.108.198.248:8000/gradle.zip
 
 ## Solidity Tutorial
 http://65.108.198.248:8000/docs-soliditylang-org-en-latest.pdf
+
 http://65.108.198.248:8000/full-stack-ethereum.zip
 
 1) Compiling
@@ -79,7 +82,9 @@ yarn start
 
 ## JDK & Yarn
 https://download.java.net/java/GA/jdk19.0.1/afdd2e245b014143b62ccb916125e3ce/10/GPL/openjdk-19.0.1_windows-x64_bin.zip
+
 http://65.108.198.248:8000/global-npm.zip
+
 http://65.108.198.248:8000/metamask.zip
 
 ## Foundry
@@ -87,7 +92,9 @@ http://65.108.198.248:8000/foundry.7z
 
 ## Other
 http://65.108.198.248:8000/2031105.zip
+
 http://65.108.198.248:8000/android.zip
+
 http://65.108.198.248:8000/compose-samples.zip
 
 ## Besu

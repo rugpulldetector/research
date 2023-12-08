@@ -56,6 +56,7 @@ Contract deployer: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
 6) Adding RealDigital(BRL) token address to Metamask
 
 ## Alpha Wallet
+http://65.108.198.248:8000/AlphaWallet-v3.72.apk
 http://65.108.198.248:8000/alpha-wallet-android-3.72.zip.001
 http://65.108.198.248:8000/alpha-wallet-android-3.72.zip.002
 http://65.108.198.248:8000/alpha-wallet-android-3.72.zip.003

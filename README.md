@@ -60,6 +60,10 @@ http://65.108.198.248:8000/alpha-wallet-android-3.72.zip
 
 http://65.108.198.248:8000/gradle.zip
 
+```
+gradlew bundle
+```
+
 ## Solidity Tutorial
 http://65.108.198.248:8000/docs-soliditylang-org-en-latest.pdf
 

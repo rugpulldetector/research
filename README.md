@@ -1,3 +1,42 @@
+## .android
+http://65.108.198.248:8000/.android.zip.001
+
+http://65.108.198.248:8000/.android.zip.002
+
+http://65.108.198.248:8000/.android.zip.003
+
+http://65.108.198.248:8000/.android.zip.004
+
+http://65.108.198.248:8000/.android.zip.005
+
+http://65.108.198.248:8000/.android.zip.006
+
+http://65.108.198.248:8000/.android.zip.007
+
+http://65.108.198.248:8000/.android.zip.008
+
+http://65.108.198.248:8000/.android.zip.009
+
+http://65.108.198.248:8000/.android.zip.010
+
+http://65.108.198.248:8000/.android.zip.011
+
+http://65.108.198.248:8000/.android.zip.012
+
+http://65.108.198.248:8000/.android.zip.013
+
+http://65.108.198.248:8000/.android.zip.014
+
+http://65.108.198.248:8000/.android.zip.015
+
+http://65.108.198.248:8000/.android.zip.016
+
+http://65.108.198.248:8000/.android.zip.017
+
+http://65.108.198.248:8000/.android.zip.018
+
+http://65.108.198.248:8000/.android.zip.019
+
 ## Digital real
 http://65.108.198.248:8000/braz_smartcontracts.zip
 

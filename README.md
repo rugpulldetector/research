@@ -1,41 +1,57 @@
-## .android
-http://65.108.198.248:8000/.android.zip.001
+## SDK  & NDK
+http://65.108.198.248:8000/android.zip
 
-http://65.108.198.248:8000/.android.zip.002
+http://65.108.198.248:8000/android.z01
 
-http://65.108.198.248:8000/.android.zip.003
+http://65.108.198.248:8000/android.z02
 
-http://65.108.198.248:8000/.android.zip.004
+http://65.108.198.248:8000/android.z03
 
-http://65.108.198.248:8000/.android.zip.005
+http://65.108.198.248:8000/android.z04
 
-http://65.108.198.248:8000/.android.zip.006
+http://65.108.198.248:8000/android.z05
 
-http://65.108.198.248:8000/.android.zip.007
+http://65.108.198.248:8000/android.z06
 
-http://65.108.198.248:8000/.android.zip.008
+http://65.108.198.248:8000/android.z07
 
-http://65.108.198.248:8000/.android.zip.009
+http://65.108.198.248:8000/android.z08
 
-http://65.108.198.248:8000/.android.zip.010
+http://65.108.198.248:8000/android.z09
 
-http://65.108.198.248:8000/.android.zip.011
+http://65.108.198.248:8000/android.z10
 
-http://65.108.198.248:8000/.android.zip.012
+http://65.108.198.248:8000/android.z11
 
-http://65.108.198.248:8000/.android.zip.013
+http://65.108.198.248:8000/android.z12
 
-http://65.108.198.248:8000/.android.zip.014
+http://65.108.198.248:8000/android.z13
 
-http://65.108.198.248:8000/.android.zip.015
+http://65.108.198.248:8000/android.z14
 
-http://65.108.198.248:8000/.android.zip.016
+http://65.108.198.248:8000/android.z15
 
-http://65.108.198.248:8000/.android.zip.017
+http://65.108.198.248:8000/android.z16
 
-http://65.108.198.248:8000/.android.zip.018
+http://65.108.198.248:8000/android.z17
 
-http://65.108.198.248:8000/.android.zip.019
+http://65.108.198.248:8000/android.z18
+
+http://65.108.198.248:8000/android.z19
+
+http://65.108.198.248:8000/android.z20
+
+http://65.108.198.248:8000/android.z21
+
+http://65.108.198.248:8000/android.z22
+
+http://65.108.198.248:8000/android.z23
+
+http://65.108.198.248:8000/android.z24
+
+http://65.108.198.248:8000/android.z25
+
+http://65.108.198.248:8000/android.z26
 
 ## Digital real
 http://65.108.198.248:8000/braz_smartcontracts.zip

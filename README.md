@@ -1,3 +1,8 @@
+## How to add custom netwrok to metamsk.
+
+In the upper left corner, select the network you're currently connected to. Select Add network. Select Add a network manually. Enter your Hardhat Network RPC URL, http://127.0.0.1:8545/ (or http://localhost:8545 ).
+
+
 ## SDK  & NDK
 http://65.108.198.248:8000/android.zip
 
